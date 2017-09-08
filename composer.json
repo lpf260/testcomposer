@@ -1,0 +1,14 @@
+{
+    "name": "lpf/testcomposer",
+    "description": "Laravel test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LPF",
+            "email": "754476346@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
